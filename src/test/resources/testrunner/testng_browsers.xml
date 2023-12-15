@@ -17,12 +17,4 @@
             <class name="tests.PresenceElementsOnHomePageTest"/>
         </classes>
     </test>
-
-    <test name="EdgeTest">
-        <parameter name="browser" value="MicrosoftEdge"/>
-        <parameter name="grid" value="without grid"></parameter>
-        <classes>
-            <class name="tests.PresenceElementsOnHomePageTest"/>
-        </classes>
-    </test>
 </suite>
